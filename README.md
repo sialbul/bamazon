@@ -5,12 +5,12 @@ The goal was to create an Amazon-like store front using Node.js and MySQL.
 <strong> What Each JavaScript Does</strong>
 
 <strong>BamazonCustomer.js</strong>
+<ol>
+<li>Prints the products in the store.</li>
 
-Prints the products in the store.
+<li>Prompts customer which product they would like to purchase by ID number.</li>
 
-Prompts customer which product they would like to purchase by ID number.
-
-Asks for the quantity.
+<li>Asks for the quantity.</li>
 
 If there is a sufficient amount of the product in stock, it will return the total for that purchase.
 
