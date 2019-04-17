@@ -21,7 +21,6 @@ Created a table in database and called Products with the following columns:
 
 I populated the database with 20 different products.
 
-There is a Node application called BamazonCustomer.js. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 <strong><h4> What Each JavaScript Does</h4></strong>
 <strong>BamazonCustomer.js</strong>
 <ul>
@@ -57,4 +56,6 @@ Starts with a menu which shows;
 
 <li>End Session; it ends the session and does not go back to the menu.</li>
 </ul>
+
+We are using <strong>Node</strong> application to run BamazonCustomer.js and BamazonManager.js.
 
