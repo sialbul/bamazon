@@ -2,9 +2,9 @@
 The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 
-<bold> What Each JavaScript Does</bold>
+<strong> What Each JavaScript Does</strong>
 
-<bold>BamazonCustomer.js</bold>
+<strong>BamazonCustomer.js</strong>
 
 Prints the products in the store.
 
@@ -20,7 +20,7 @@ If the purchase goes through, it updates the stock quantity to reflect the purch
 
 It will also update the product sales in the department table.
 
-<bold>BamazonManager.js</bold>
+<strong>BamazonManager.js</strong>
 
 Starts with a menu:
 
