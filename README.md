@@ -4,6 +4,26 @@ The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 <strong><h2> What Each JavaScript Does</h2></strong>
 
+Created a database in MySql and named Bamazon.
+
+Created a table in database called Products with the following columns:
+<ol>
+
+<li>item_id (unique id for each product)</li>
+
+<li>product_name (Name of product)</li>
+
+<li>department_name</li>
+
+<li>price (cost to customer)</li>
+
+<li>stock_quantity (how much of the product is available in stores)</li>
+</ol>
+
+I populated the database with 10+ different products.
+
+There is a Node application called BamazonCustomer.js. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
+
 <strong>BamazonCustomer.js</strong>
 <ul>
 <li>Prints the products in the store.</li>
