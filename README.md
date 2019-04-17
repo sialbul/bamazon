@@ -1,7 +1,7 @@
 # bamazon
 The goal was to create an Amazon-like store front using Node.js and MySQL.
 
-What Each JavaScript Does
+<strong> What Each JavaScript Does</strong>
 
 BamazonCustomer.js
 
