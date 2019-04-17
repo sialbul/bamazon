@@ -2,7 +2,7 @@
 The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 
-<strong> What Each JavaScript Does</strong>
+<strong><h2> What Each JavaScript Does</h2></strong>
 
 <strong>BamazonCustomer.js</strong>
 <ul>
@@ -23,17 +23,19 @@ The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 <strong>BamazonManager.js</strong>
 
-Starts with a menu:
+Starts with a menu which shows;
 
-View Products for Sale; it lists all of the products in the store including all of their details.
+<ul>
+<li>View Products for Sale; it lists all of the products in the store including all of their details.</li>
 
-View Low Inventory; it lists all the products with less than five items in their stock.
+<li>View Low Inventory; it lists all the products with less than five items in their stock.</li>
 
-Add to Inventory;  it allows the manager to select a product and add inventory.
+<li>Add to Inventory;  it allows the manager to select a product and add inventory.</li>
 
-Add New Product; it allows the manager to add a new product to the store.
+<li>Add New Product; it allows the manager to add a new product to the store.</li>
 
-Delete Product; it will delete the selected item from stock.
+<li>Delete Product; it will delete the selected item from stock.</li>
 
-End Session; it ends the session and does not go back to the menu.
+<li>End Session; it ends the session and does not go back to the menu.</li>
+</ul>
 
