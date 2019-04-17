@@ -22,7 +22,7 @@ Created a table in database and called Products with the following columns:
 I populated the database with 20 different products.
 
 <strong><h4> What Each JavaScript Does</h4></strong>
-<strong>BamazonCustomer.js</strong>
+<strong>bamazonCustomer.js</strong>
 <ul>
 <li>Prints the products in the store.</li>
 
@@ -39,7 +39,7 @@ I populated the database with 20 different products.
 <li>It will also update the product sales in the department table.</li>
 </ul>
 
-<strong>BamazonManager.js</strong>
+<strong>bamazonManager.js</strong>
 
 Starts with a menu which shows;
 
