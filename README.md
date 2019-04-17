@@ -5,7 +5,7 @@ The goal was to create an Amazon-like store front using Node.js and MySQL.
 <h4> MySql side of the project</h4>
 Created a database in MySql and named Bamazon.
 
-Created a table in database called Products with the following columns:
+Created a table in database and called Products with the following columns:
 <ol>
 
 <li>item_id (unique id for each product)</li>
