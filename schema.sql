@@ -1,7 +1,7 @@
 CREATE DATABASE bamazon;
 USE bamazon;
 
-CREATE TABLE products;
+CREATE TABLE products
 (
   item_id int NOT NULL AUTO_INCREMENT,
   product_name varchar (50),
